@@ -7,7 +7,13 @@
 
 - 📄 My detailed information [CV](https://drive.google.com/file/d/1apHCSsaI18_UHtlYHRk2eyv9st7_GnyL/view)
 
-<h3 align="left">Connect with me: [Linkedin](https://www.linkedin.com/in/hasibul--islam/)</h3>
+<h3 align="left">Reach me</h3>
+<a href="https://www.linkedin.com/in/hasibul--islam/">
+  <img style="height: 50px;" src="https://static.vecteezy.com/system/resources/previews/018/910/715/non_2x/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg"  alt=""> 
+</a>
+<a href="https://www.facebook.com/profile.php?id=100024664308783">
+  <img style="height: 50px;" src="https://static.vecteezy.com/system/resources/previews/018/930/476/original/facebook-logo-facebook-icon-transparent-free-png.png"  alt=""> 
+</a>
 <p align="left">
 </p>
 
