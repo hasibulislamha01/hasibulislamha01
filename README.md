@@ -6,9 +6,14 @@
 
 #### I am a passionate web developer and continuously expanding my technical expertise in the ever-evolving world of web development.
 
+## About Me
+- 🔭 I am currently looking for job. Excited to share my knowledge.
+- ✉  Reach me: hasibulislamha01@gmail.com
+
+
  ## Skills
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -36,9 +41,22 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulislamha01)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibulislamha01&show_icons=true&count_private=true)  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulislamha01" alt="Top Langs">
+  </a>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hasibulislamha01)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasibulislamha01&show_icons=true&count_private=true" alt="GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hasibulislamha01" alt="GitHub streak">
+</p>
+
+ 
+
 
