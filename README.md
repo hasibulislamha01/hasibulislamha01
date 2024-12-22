@@ -56,6 +56,11 @@
 </p>
 
 <p align="center">
+  <a href="https://hits.sh/github.com/hasibulislamha01/"><img alt="Hits" src="https://hits.sh/github.com/hasibulislamha01.svg?style=for-the-badge&label=visitors&color=61DBFB&labelColor=0f172a"/></a>  
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasibulislamha01&show_icons=true&count_private=true" alt="GitHub stats">
 </p>
 
