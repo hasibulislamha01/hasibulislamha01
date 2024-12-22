@@ -15,6 +15,15 @@
 - ✉ Reach Me: hasibulislamha01@gmail.com
 
 
+## 📭 Reach Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasibul-islam35/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+  <a href="mailto:hasibul.dev100@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
+  <a href="https://hasibul-portfolio-dac39.web.app/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100024664308783"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
+</p>
+
+
  ## Skills
 
 <p align="center">
@@ -44,7 +53,7 @@
   </a>
 </p>
 
- ## Tools
+
 
 
 ## GitHub Stats
