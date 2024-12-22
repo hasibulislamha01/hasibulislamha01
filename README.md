@@ -1,14 +1,18 @@
 
 
-![](https://i.ibb.co/zZ99q1c/coding.jpg)
-## Hi there 👋, I am Hasibul Islam
+![](https://i.ibb.co.com/TMpSXF0/Your-paragraph-text-1.png)
+## Hi there 👋, Welcome to my Github
 
 
-#### I am a passionate web developer and continuously expanding my technical expertise in the ever-evolving world of web development.
+#### I am a passionate web developer dedicated to creating dynamic and user-focused web solutions, while continuously expanding my expertise in the ever-evolving world of modern web technologies.
 
 ## About Me
-- 🔭 I am currently looking for job. Excited to share my knowledge.
-- ✉  Reach me: hasibulislamha01@gmail.com
+- 💡 Self-Taught Programmer: Passionate about crafting innovative and dynamic user interfaces.
+- 🌱 Continuously learning and staying updated with modern web technologies to deliver cutting-edge solutions.
+- 🔭 What I Do: Building responsive, user-centric, and scalable web applications with expertise in the MERN stack and Next.js.
+- 🚀 Ready to provide world-class web development solutions to help bring ideas to life.
+- 💬 Open to collaborations and discussions on exciting web development projects.
+- ✉ Reach Me: hasibulislamha01@gmail.com
 
 
  ## Skills
@@ -39,6 +43,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   </a>
 </p>
+
+ ## Tools
 
 
 ## GitHub Stats
