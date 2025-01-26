@@ -53,9 +53,7 @@
   </a>
 </p>
 
-## Tools
-these are the tools i use most often.
-Git, Github, Vs Code, transtack query, nodemon, axios
+
 
 ## GitHub Stats
 
