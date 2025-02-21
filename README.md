@@ -53,9 +53,6 @@
   </a>
 </p>
 
-# Tools 
-vsCode 
-
 ## GitHub Stats
 
 <p align="center">
