@@ -53,7 +53,6 @@
   </a>
 </p>
 
-## tools
 
 ## GitHub Stats
 
